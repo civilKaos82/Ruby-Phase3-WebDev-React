@@ -50,7 +50,7 @@
 
 Find your weekly groups [here](./resources/groups.md).
 
-Give your pair feedback [here]().
+Give your pair feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSfL29-44c8sSuCsCTOXGucN6Pvq3Hy-odOA08eRzeqHwssgng/viewform).
 
 ## Weekly Cadence
 
