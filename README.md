@@ -52,6 +52,8 @@ Find your weekly groups [here](./resources/groups.md).
 
 Give your pair feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSfL29-44c8sSuCsCTOXGucN6Pvq3Hy-odOA08eRzeqHwssgng/viewform).
 
+Railsy and Gemsy talks link [here](https://github.com/sf-pocket-gophers-2017/phase-3-guide/blob/sf-react/resources/lightning-talks-schedule.md)
+
 ## Weekly Cadence
 
 - Engineering Empathy:
