@@ -41,8 +41,8 @@
  - Gloria A. Cruz <==> Augusto Azevedo
  - Ricky Veltri <==> Ashley Teow
  - Hawken Ritter <==> Rio Nose
- - Michael Glaser <==> Mark de Dios
- - Filmon Mengisteab
+ - Michael Glaser <==> Mark de Dios <==> Filmon Mengisteab
+
 
 
  ## Week 2 Pairs
