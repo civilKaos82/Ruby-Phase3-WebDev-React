@@ -32,6 +32,18 @@
  - Ashley Teow <==> Ricky Veltri <==> Augusto Azevedo <==> Michael Glaser
  - Garima Jain <==> Mark de Dios <==> Hannie Dong <==> Nestor Ceron <==> Rio nose
 
+ ### Friday
+
+ - Garima Jain <==> Fulton Zink
+ - Hannie Dong <==> Peter Thompson
+ - Josh Nickell <==> Nestor Ceron
+ - Jennifer Shopsin <==> Angie Rivera
+ - Gloria A. Cruz <==> Augusto Azevedo
+ - Ricky Veltri <==> Ashley Teow
+ - Hawken Ritter <==> Rio Nose
+ - Michael Glaser <==> Mark de Dios
+ - Filmon Mengisteab
+
 
  ## Week 2 Pairs
 
