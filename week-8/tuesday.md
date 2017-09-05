@@ -34,29 +34,29 @@ possible.
 By being able to execute the following tasks, you will have learned the
 material for the day and can corroborate your learning.
 
-Task 1: Install and use a global NPM package: `create-react-app`
-Task 2: Name steps in mockup, static, `React.Component` design strategy
-Task 3: Identify atomic `React.Component`(s) from a mockup and create
-Task 4: Establish centralized, unidirectional data flow for communication between `React.Component` thus "composing" them
-Task 5: Articulate virtues of React based on experience
-Task 6: Use Lifecycle Methods to Retrieve Data
-Task 7: Build a React Component around a Form
-Task 8: Iterate through a collection in JSX
+- 1: Install and use a global NPM package: `create-react-app`
+- 2: Name steps in mockup, static, `React.Component` design strategy
+- 3: Identify atomic `React.Component`(s) from a mockup and create
+- 4: Establish centralized, unidirectional data flow for communication between `React.Component` thus "composing" them
+- 5: Articulate virtues of React based on experience
+- 6: Use Lifecycle Methods to Retrieve Data
+- 7: Build a React Component around a Form
+- 8: Iterate through a collection in JSX
 
 
 ## Lecture I: Implementing Widget-based Architectures with React
 
-* Task 1: Install and use a global NPM package: `create-react-app`
-* Task 2: Name steps in mockup, static, `React.Component` design strategy
-* Task 3: Identify atomic `React.Component`(s) from a mockup and create
-* Task 4: Establish centralized, unidirectional data flow for communication between `React.Component` thus "composing" them
-* Task 5: Articulate virtues of React based on experience
+- 1: Install and use a global NPM package: `create-react-app`
+- 2: Name steps in mockup, static, `React.Component` design strategy
+- 3: Identify atomic `React.Component`(s) from a mockup and create
+- 4: Establish centralized, unidirectional data flow for communication between `React.Component` thus "composing" them
+- 5: Articulate virtues of React based on experience
 
 ## Lecture II: Topics in React
 
-* Task 6: Use Lifecycle Methods to Retrieve Data
-* Task 7: Build a React Component around a Form
-* Task 8: Iterate through a collection in JSX
+- 6: Use Lifecycle Methods to Retrieve Data
+- 7: Build a React Component around a Form
+- 8: Iterate through a collection in JSX
 
 For demonstrations on this topic see: https://talks.devbootcamp.com/topics-in-react
 
