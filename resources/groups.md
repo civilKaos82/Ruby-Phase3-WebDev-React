@@ -51,7 +51,7 @@
  - Angela Rivera <==> Fulton Zink
  - Ashley Teow <==> Augusto Azevedo
  - Hawken Ritter <==> Mark de Dios
- - Garima Jain <==> Rio nose
+ - Garima Jain <==> Rio Nose
  - Hannie Dong <==> Michael Glaser
  - Gloria Cruz <==> Peter Thompson <==> Josh Nickell
  - Filmon Mengisteab <==> Ricky Veltri
@@ -60,7 +60,7 @@
  ### Tuesday
  - Angela Rivera <==> Garima Jain <==> Ricky Veltri
  - Josh Nickell <==> Nestor Ceron
- - Jennifer Shopsin <==>  Rio nose
+ - Jennifer Shopsin <==>  Rio Nose
  - Ashley Teow <==> Hannie Dong
  - Hawken Ritter <==> Michael Glaser
  - Gloria Cruz <==> Mark de Dios
